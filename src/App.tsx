@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Menu from './Menu';
 import Categories from './Categories';
 import items from './data';
+import FloatingWhatsAppButton from './FloatingWhatsAppButton';
 
 interface MenuItem {
   id: number;
@@ -28,6 +29,9 @@ function App() {
 
   return (
     <main>
+      <FloatingWhatsAppButton
+        whatsappLink="https://api.whatsapp.com/message/CIMZV5IDQ3GOA1?autoload=1&app_absent=0"
+      />
       <section className="menu section">
         <div className="title">
           <h2>Iron Pump</h2>

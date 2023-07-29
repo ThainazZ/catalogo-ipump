@@ -62,7 +62,7 @@ Global Styles
 }
 
 body {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Quicksand', sans-serif;
   background: var(--clr-grey-10);
   color: var(--clr-grey-1);
   line-height: 1.5;
@@ -83,7 +83,7 @@ h3,
 h4 {
   letter-spacing: var(--spacing);
   line-height: 1.25;
-  margin-bottom: 0.75rem;
+  
 }
 
 h1 {
@@ -92,7 +92,7 @@ h1 {
 
 h2 {
   font-size: 3rem;
-  font-weight: 600;
+  font-family: 'Kanit', sans-serif;
 }
 
 h3 {
@@ -174,14 +174,7 @@ Menu
   text-align: center;
   margin-bottom: 3rem;
 
-}
 
-.underline {
-  width: 5rem;
-  height: 0.1rem;
-  background: black;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .btn-container {
@@ -196,20 +189,20 @@ Menu
 }
 
 .filter-btn {
-  background: transparent;
-  border: 1px solid orangered;
+  background:  orangered;
+  border: none;
   font-size: 1rem;
   letter-spacing: 1px;
-  padding: 2%;
-  color: black;
+  padding: 1% 2% 1%;
+  color: white;
   cursor: pointer;
   transition: var(--transition);
   border-radius: var(--radius);
 }
 
 .filter-btn:hover {
-  background: orangered;
-  color: var(--clr-white);
+  background: orange;
+  color: whitesmoke;
 }
 
 .section-center {
@@ -267,6 +260,7 @@ Menu
     object-fit: contain;
     height: 250px;
   }
+  
 }
 
 @media screen and (min-width: 1200px) {
