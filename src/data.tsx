@@ -19,7 +19,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 150,
     img: './assets/whey/probrefil.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Esse é o Whey Protein pioneiro em qualidade e excelência no mercado brasileiro! Conta com sabores super variados e deliciosos.`,
   },
   {
     id: 3,
@@ -27,7 +27,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 215,
     img:'./assets/whey/whey_zero_lactose.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `A melhor opção de custo-benefício e qualidade, indicado para a população intolerante a lactose.`,
   },
   {
     id: 4,
@@ -35,7 +35,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 145.00,
     img:'./assets/whey/whey_max_refil.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Referência entre os wheys protein e o preferido do Renato Cariani! Incrível sabor e dissolubilidade.`,
   },
   {
     id: 5,
@@ -43,7 +43,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 279,
     img:'./assets/whey/iso_whey_max.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Possui um nível ainda maior de pureza, zero lactose e super indicado para você que tem intolerância ou está em uma dieta muito rigorosa.`,
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 189,
     img:'./assets/whey/top_whey_3w.webp',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `O melhor para você que busca performance e não abre mão da melhor qualidade disponível. Alta concentração de pureza e valor nutricional!`,
   },
   {
     id: 7,
@@ -59,7 +59,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 145.00,
     img:'./assets/whey/3whey_toptaste.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `O mais querido e procurado na Iron Pump! Possui sabores maravilhosos e um custo-benefício ainda maior, com altíssima quantidade de proteína por dose.`,
   },
   {
     id: 8,
@@ -67,7 +67,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 150.00,
     img:'./assets/whey/3whey_delicious.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Feito e elaborado para você que valoriza o sabor e "gostosura" das suas refeições, além de contar com excelente concentração proteica.`,
   },
   {
     id: 9,
@@ -75,7 +75,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 199.00,
     img:'./assets/whey/whey_dux_pote.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Apresenta a melhor qualidade do mercado brasileiro. O sabor, qualidade e excelência desse Whey Protein ficam marcados para sempre em você.`,
   },
   {
     id: 10,
@@ -83,7 +83,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 145.00,
     img:'./assets/whey/whey_integralmedica.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `É a proteína mais vendida do Brasil por vários anos consecutivos, e com muita razão! Muito gostoso e ideal para você manter uma alimentação prática e saudável.`,
   },
   {
     id: 11,
@@ -91,7 +91,7 @@ const menu: MenuItem[] = [
     category: 'Whey Protein',
     price: 129.90,
     img:'./assets/whey/my_whey_im.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Excelente custo-benefício e super indicado para você que preza pelo sabor e qualidade e não abre mão de economizar!`,
   },
   {
     id: 12,
@@ -99,7 +99,7 @@ const menu: MenuItem[] = [
     category: 'Creatinas',
     price: 145.00,
     img:'./assets/creatina/creatina_300g_max.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Entrega grande qualidade e resultados; `,
   },
   {
     id: 13,
@@ -107,7 +107,7 @@ const menu: MenuItem[] = [
     category: 'Creatinas',
     price: 145.00,
     img:'./assets/creatina/creatina_300g_integral.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `A vermelhinha que todo mundo conhece e adora!`,
   },
   {
     id: 14,
@@ -115,7 +115,7 @@ const menu: MenuItem[] = [
     category: 'Creatinas',
     price: 135.00,
     img:'./assets/creatina/creatina_300g_ftw.webp',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Cada dia mais notável no mercado e apresenta excelente qualidade por um custo-benefício encantador.`,
   },
   {
     id: 15,
@@ -123,7 +123,7 @@ const menu: MenuItem[] = [
     category: 'Creatinas',
     price: 120.00,
     img:'./assets/creatina/creatina_turbo_300g.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Possui adição de carboidratos em sua fórmula para aumentar a eficácia da creatina e te ajudar a economizar.`,
   },
   {
     id: 16,
@@ -131,7 +131,7 @@ const menu: MenuItem[] = [
     category: 'Creatinas',
     price: 130.00,
     img:'./assets/creatina/creatina_universal.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Essa é a creatina mais vendida do MUNDO! Altíssima qualidade, incomparável!`,
   },
   {
     id: 17,
@@ -139,7 +139,7 @@ const menu: MenuItem[] = [
     category: 'Creatinas',
     price: 140.00,
     img:'./assets/creatina/creatina_darkness.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Selo CREAPURE diretamente da indústria alemã, para você que preza a qualidade absoluta na suplementação.`,
   },
 
 
@@ -150,7 +150,7 @@ const menu: MenuItem[] = [
     category: 'Emagrecimento',
     price: 89.90,
     img:'./assets/termo/thermocrazy.webp',
-    desc: `Boiled or fried yam and egg sauce is a usual suspect on the tables of Nigerians. It is quite filling and can last you the whole day, if not careful. Egg sauce is an easy-to-prepare Nigerian sauce made by sautéing tomatoes and eggs. `,
+    desc: `Vem ser crazy e potencializar o seu emagrecimento! Recomendamos ingerir 1 cápsula ao dia. Para atletas é possível consumir até 2 cápsulas, que fornecem 400 mg de cafeína. Composição incrível que te fornece até Cromo para auxiliar na saciedade. `,
   },
   {
     id: 19,
@@ -158,7 +158,7 @@ const menu: MenuItem[] = [
     category: 'Emagrecimento',
     price: 69.90,
     img:'./assets/termo/derrete_evorox.png',
-    desc: `Boiled or fried yam and egg sauce is a usual suspect on the tables of Nigerians. It is quite filling and can last you the whole day, if not careful. Egg sauce is an easy-to-prepare Nigerian sauce made by sautéing tomatoes and eggs. `,
+    desc: `Cumpre mais do que promete. DERRETE tudo! Conta até com Pimenta Branca para acelerar o processo de queima de gordura, e excelente concentração de cafeína, CoenzimaQ10 e tudo o que você precisa para acelerar o metabolismo e emagrecer com saúde. `,
   },
   {
     id: 20,
@@ -166,7 +166,7 @@ const menu: MenuItem[] = [
     category: 'Emagrecimento',
     price: 87.90,
     img:'./assets/termo/morosil.png',
-    desc: `Boiled or fried yam and egg sauce is a usual suspect on the tables of Nigerians. It is quite filling and can last you the whole day, if not careful. Egg sauce is an easy-to-prepare Nigerian sauce made by sautéing tomatoes and eggs. `,
+    desc: `Morosil é um tratamento que atua ajudando a perda de medidas, especialmente na região abdominal. Seus bioativos atuam melhorando a hipóxia e inflamação ocasionada pela hipertrofia dos adipócitos! `,
   },
 
 
@@ -178,7 +178,7 @@ const menu: MenuItem[] = [
     category: 'Ganho de massa',
     price: 115.00,
     img:'./assets/hiper/delicious_mass.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Delicioso, completo com 3g de creatina por dose, e ideal para te auxiliar no ganho de massa, que só é alcançado ao atingir superávit calórico, com uma alimentação planejada e rica em calorias, onde o Delicious Mass vai auxiliar com muita praticidade e sabor.`,
   },
   {
     id: 22,
@@ -186,7 +186,7 @@ const menu: MenuItem[] = [
     category: 'Ganho de massa',
     price: 129.00,
     img:'./assets/hiper/supergainers.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Um dos melhores hipercalóricos do mercado, líder da marca Max Titanium por entregar uma composição pensada em manter a qualidade do sabor e a concentração de creatina e proteínas.`,
   },
 
   // PRE TREINO
@@ -196,7 +196,7 @@ const menu: MenuItem[] = [
     category: 'Pré-Treinos',
     price: 129.00,
     img:'./assets/pre_treino/horus.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Pré-treino ideal para você ter bastante energia sem acelerar muito, mantendo o seu bem-estar diário. Conta com 150mg de cafeína!`,
   },
   {
     id: 24,
@@ -204,7 +204,7 @@ const menu: MenuItem[] = [
     category: 'Pré-Treinos',
     price: 126.90,
     img:'./assets/pre_treino/epic.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Composição incrível para você ter muita disposição, conta com 200mg de cafeína por dose!`,
   },
   {
     id: 25,
@@ -212,7 +212,7 @@ const menu: MenuItem[] = [
     category: 'Pré-Treinos',
     price: 109.90,
     img:'./assets/pre_treino/fritz.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Entrega alto poder vasodilatador, possibilitando aqueles pumps insaaaaanos!! Sucesso de custo-benefício e qualidade.`,
   },
   {
     id: 26,
@@ -220,7 +220,7 @@ const menu: MenuItem[] = [
     category: 'Pré-Treinos',
     price: 124.90,
     img:'./assets/pre_treino/diabo_verde.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `É um dos mais completos da categoria e conta até com 3g de creatina por dose, sendo 200mg de cafeína por dose.`,
   },
   {
     id: 27,
@@ -228,7 +228,7 @@ const menu: MenuItem[] = [
     category: 'Pré-Treinos',
     price: 59.90,
     img:'./assets/pre_treino/nuclear_rush.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `MUITO INTENSO! Esse aqui vai te possibilitar ter os melhores (e mais insanos) treinos da sua vida! Conta com 400mg de cafeína por dose.`,
   },
 
 
@@ -239,7 +239,7 @@ const menu: MenuItem[] = [
     category: 'Saúde e bem-estar',
     price: 109.90,
     img:'./assets/saude/omega_dux.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Qualidade premium com uma concentração impecável de Ômega 3. Apenas 2 cápsulas diárias.`,
   },
   {
     id: 29,
@@ -247,15 +247,15 @@ const menu: MenuItem[] = [
     category: 'Saúde e bem-estar',
     price: 99.90,
     img:'./assets/saude/omega_vitafor.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Um dos ômegas mais recomendados por nutricionistas, entrega toda a qualidade da família Vitafor. 3 cápsulas diárias.`,
   },
   {
     id: 30,
     title: 'NAC 60CAPS VITAFOR',
     category: 'Saúde e bem-estar',
-    price: 75.00,
+    price: 60.00,
     img:'./assets/saude/nac_vitafor.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `O NAC® (N-acetil L-cisteína), é de origem vegetal. Esse aminoácido tem relação com funções importantes do organismo, contribuindo para o equilíbrio e proteção do corpo.`,
   },
   {
     id: 31,
@@ -263,7 +263,7 @@ const menu: MenuItem[] = [
     category: 'Saúde e bem-estar',
     price: 35.00,
     img:'./assets/saude/melatonina_uniao.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `Esse hormônio representa grandes mudanças para a sua rotina de sono e ainda mais mudanças para a sua qualidade de vida. Apenas 1 gota diária.`,
   },
   {
     id: 32,
@@ -271,7 +271,7 @@ const menu: MenuItem[] = [
     category: 'Saúde e bem-estar',
     price: 75.00,
     img:'./assets/saude/good_night.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `O Good Night é um composto fantástico de elementos essenciais para a manutenção do seu ciclo circardiano, seu bem-estar e a sua saúde.`,
   },
   {
     id: 33,
@@ -279,7 +279,7 @@ const menu: MenuItem[] = [
     category: 'Saúde e bem-estar',
     price: 35.00,
     img:'./assets/saude/vitaminad.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `É um composto essencial ao corpo, desenvolvido para cuidar da sua saúde e dar o reforço que você precisa nos cuidados com o seu corpo. Possui uma fórmula pensada para trazer os melhores resultados de forma 100% segura e eficaz, utilizando produtos naturais e não agressivos ao corpo.`,
   },
   {
     id: 34,
@@ -287,7 +287,7 @@ const menu: MenuItem[] = [
     category: 'Saúde e bem-estar',
     price: 80.00,
     img:'./assets/saude/multivi_dux.png',
-    desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
+    desc: `O Multivitamínio Dux possui uma fórmula especial que fornece micronutrientes cientificamente selecionados para atender as necessidades específicas do corpo humano, em uma única cápsula ultra concentrada.`,
   },
 ];
 
