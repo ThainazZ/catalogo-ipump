@@ -18,7 +18,7 @@ const menu: MenuItem[] = [
     title: '100% PURE WHEY',
     category: 'Whey Protein',
     price: 150,
-    img: './public/assets/whey/probrefil.png',
+    img: './assets/whey/probrefil.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -26,7 +26,7 @@ const menu: MenuItem[] = [
     title: 'WHEY 100% ZERO LACTOSE',
     category: 'Whey Protein',
     price: 215,
-    img:'./public/assets/whey/whey_zero_lactose.png',
+    img:'./assets/whey/whey_zero_lactose.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -34,7 +34,7 @@ const menu: MenuItem[] = [
     title: '100% WHEY',
     category: 'Whey Protein',
     price: 145.00,
-    img:'./public/assets/whey/whey_max_refil.png',
+    img:'./assets/whey/whey_max_refil.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -42,7 +42,7 @@ const menu: MenuItem[] = [
     title: 'ISO WHEY (ISOLADO)',
     category: 'Whey Protein',
     price: 279,
-    img:'./public/assets/whey/iso_whey_max.png',
+    img:'./assets/whey/iso_whey_max.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -50,7 +50,7 @@ const menu: MenuItem[] = [
     title: 'TOP WHEY 3W',
     category: 'Whey Protein',
     price: 189,
-    img:'./public/assets/whey/top_whey_3w.webp',
+    img:'./assets/whey/top_whey_3w.webp',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -58,7 +58,7 @@ const menu: MenuItem[] = [
     title: '3W TOP TASTE',
     category: 'Whey Protein',
     price: 145.00,
-    img:'./public/assets/whey/3whey_toptaste.png',
+    img:'./assets/whey/3whey_toptaste.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -66,7 +66,7 @@ const menu: MenuItem[] = [
     title: '3WHEY DELICIOUS',
     category: 'Whey Protein',
     price: 150.00,
-    img:'./public/assets/whey/3whey_delicious.png',
+    img:'./assets/whey/3whey_delicious.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -74,7 +74,7 @@ const menu: MenuItem[] = [
     title: 'WHEY 100% DUX',
     category: 'Whey Protein',
     price: 199.00,
-    img:'./public/assets/whey/whey_dux_pote.png',
+    img:'./assets/whey/whey_dux_pote.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -82,7 +82,7 @@ const menu: MenuItem[] = [
     title: 'WHEY 100% PURE',
     category: 'Whey Protein',
     price: 145.00,
-    img:'./public/assets/whey/whey_integralmedica.png',
+    img:'./assets/whey/whey_integralmedica.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -90,7 +90,7 @@ const menu: MenuItem[] = [
     title: 'MY WHEY CONCENTRADO',
     category: 'Whey Protein',
     price: 129.90,
-    img:'./public/assets/whey/my_whey_im.png',
+    img:'./assets/whey/my_whey_im.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -98,7 +98,7 @@ const menu: MenuItem[] = [
     title: 'CREATINA MAX TITANIUM',
     category: 'Creatinas',
     price: 145.00,
-    img:'./public/assets/creatina/creatina_300g_max.png',
+    img:'./assets/creatina/creatina_300g_max.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -106,7 +106,7 @@ const menu: MenuItem[] = [
     title: 'CREATINA INTEGRALMEDICA',
     category: 'Creatinas',
     price: 145.00,
-    img:'./public/assets/creatina/creatina_300g_integral.png',
+    img:'./assets/creatina/creatina_300g_integral.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -114,7 +114,7 @@ const menu: MenuItem[] = [
     title: 'CREATINA FTW',
     category: 'Creatinas',
     price: 135.00,
-    img:'./public/assets/creatina/creatina_300g_ftw.webp',
+    img:'./assets/creatina/creatina_300g_ftw.webp',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -122,7 +122,7 @@ const menu: MenuItem[] = [
     title: 'CREATINA TURBO 300G',
     category: 'Creatinas',
     price: 120.00,
-    img:'./public/assets/creatina/creatina_turbo_300g.png',
+    img:'./assets/creatina/creatina_turbo_300g.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -130,7 +130,7 @@ const menu: MenuItem[] = [
     title: 'CREATINA UNIVERSAL 200G',
     category: 'Creatinas',
     price: 130.00,
-    img:'./public/assets/creatina/creatina_universal.png',
+    img:'./assets/creatina/creatina_universal.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -138,7 +138,7 @@ const menu: MenuItem[] = [
     title: 'CREAPURE DARKNESS 200G',
     category: 'Creatinas',
     price: 140.00,
-    img:'./public/assets/creatina/creatina_darkness.png',
+    img:'./assets/creatina/creatina_darkness.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
 
@@ -149,7 +149,7 @@ const menu: MenuItem[] = [
     title: 'THERMOCRAZY 60CAPS',
     category: 'Emagrecimento',
     price: 89.90,
-    img:'./public/assets/termo/thermocrazy.webp',
+    img:'./assets/termo/thermocrazy.webp',
     desc: `Boiled or fried yam and egg sauce is a usual suspect on the tables of Nigerians. It is quite filling and can last you the whole day, if not careful. Egg sauce is an easy-to-prepare Nigerian sauce made by sautéing tomatoes and eggs. `,
   },
   {
@@ -157,7 +157,7 @@ const menu: MenuItem[] = [
     title: 'DERRETE 60CAPS',
     category: 'Emagrecimento',
     price: 69.90,
-    img:'./public/assets/termo/derrete_evorox.png',
+    img:'./assets/termo/derrete_evorox.png',
     desc: `Boiled or fried yam and egg sauce is a usual suspect on the tables of Nigerians. It is quite filling and can last you the whole day, if not careful. Egg sauce is an easy-to-prepare Nigerian sauce made by sautéing tomatoes and eggs. `,
   },
   {
@@ -165,7 +165,7 @@ const menu: MenuItem[] = [
     title: 'MOROSIL 30CAPS',
     category: 'Emagrecimento',
     price: 87.90,
-    img:'./public/assets/termo/morosil.png',
+    img:'./assets/termo/morosil.png',
     desc: `Boiled or fried yam and egg sauce is a usual suspect on the tables of Nigerians. It is quite filling and can last you the whole day, if not careful. Egg sauce is an easy-to-prepare Nigerian sauce made by sautéing tomatoes and eggs. `,
   },
 
@@ -177,7 +177,7 @@ const menu: MenuItem[] = [
     title: 'DELICIOUS MASS 3KG',
     category: 'Ganho de massa',
     price: 115.00,
-    img:'./public/assets/hiper/delicious_mass.png',
+    img:'./assets/hiper/delicious_mass.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -185,7 +185,7 @@ const menu: MenuItem[] = [
     title: 'SUPERGAINERS 3KG',
     category: 'Ganho de massa',
     price: 129.00,
-    img:'./public/assets/hiper/supergainers.png',
+    img:'./assets/hiper/supergainers.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
 
@@ -195,7 +195,7 @@ const menu: MenuItem[] = [
     title: 'HÓRUS',
     category: 'Pré-Treinos',
     price: 129.00,
-    img:'./public/assets/pre_treino/horus.png',
+    img:'./assets/pre_treino/horus.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -203,7 +203,7 @@ const menu: MenuItem[] = [
     title: 'EPIC 300G',
     category: 'Pré-Treinos',
     price: 126.90,
-    img:'./public/assets/pre_treino/epic.png',
+    img:'./assets/pre_treino/epic.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -211,7 +211,7 @@ const menu: MenuItem[] = [
     title: 'FRITZ',
     category: 'Pré-Treinos',
     price: 109.90,
-    img:'./public/assets/pre_treino/fritz.png',
+    img:'./assets/pre_treino/fritz.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -219,7 +219,7 @@ const menu: MenuItem[] = [
     title: 'DIABO VERDE',
     category: 'Pré-Treinos',
     price: 124.90,
-    img:'./public/assets/pre_treino/diabo_verde.png',
+    img:'./assets/pre_treino/diabo_verde.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -227,7 +227,7 @@ const menu: MenuItem[] = [
     title: 'NUCLEAR RUSH 100G',
     category: 'Pré-Treinos',
     price: 59.90,
-    img:'./public/assets/pre_treino/nuclear_rush.png',
+    img:'./assets/pre_treino/nuclear_rush.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
 
@@ -238,7 +238,7 @@ const menu: MenuItem[] = [
     title: 'ÔMEGA 3 DUX 120CAPS',
     category: 'Saúde e bem-estar',
     price: 109.90,
-    img:'./public/assets/saude/omega_dux.png',
+    img:'./assets/saude/omega_dux.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -246,7 +246,7 @@ const menu: MenuItem[] = [
     title: 'ÔMEGA 3 VITAFOR 120CAPS',
     category: 'Saúde e bem-estar',
     price: 99.90,
-    img:'./public/assets/saude/omega_vitafor.png',
+    img:'./assets/saude/omega_vitafor.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -254,7 +254,7 @@ const menu: MenuItem[] = [
     title: 'NAC 60CAPS VITAFOR',
     category: 'Saúde e bem-estar',
     price: 75.00,
-    img:'./public/assets/saude/nac_vitafor.png',
+    img:'./assets/saude/nac_vitafor.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -262,7 +262,7 @@ const menu: MenuItem[] = [
     title: 'MELATONINA 30ML',
     category: 'Saúde e bem-estar',
     price: 35.00,
-    img:'./public/assets/saude/melatonina_uniao.png',
+    img:'./assets/saude/melatonina_uniao.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -270,7 +270,7 @@ const menu: MenuItem[] = [
     title: 'GOOD NIGHT 450MG',
     category: 'Saúde e bem-estar',
     price: 75.00,
-    img:'./public/assets/saude/good_night.png',
+    img:'./assets/saude/good_night.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -278,7 +278,7 @@ const menu: MenuItem[] = [
     title: 'VITAMINA D 5000ui',
     category: 'Saúde e bem-estar',
     price: 35.00,
-    img:'./public/assets/saude/vitaminad.png',
+    img:'./assets/saude/vitaminad.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
   {
@@ -286,7 +286,7 @@ const menu: MenuItem[] = [
     title: 'MULTIVITAMÍNICO DUX',
     category: 'Saúde e bem-estar',
     price: 80.00,
-    img:'./public/assets/saude/multivi_dux.png',
+    img:'./assets/saude/multivi_dux.png',
     desc: `Moin-Moin and Akara are both meals made from pureed beans and spicy ingredients, full of proteins, light and refreshing.`,
   },
 ];
