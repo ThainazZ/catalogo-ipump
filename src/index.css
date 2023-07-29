@@ -224,8 +224,12 @@ Menu
   object-fit: cover;
   height: 100%;
   width: 100%;
-  border-radius: var(--radius);
   display: block;
+}
+
+.photo:hover {
+  transition: all .2s ease-in-out;
+  transform: scale(1.1);
 }
 
 .item-info header {
@@ -244,6 +248,7 @@ Menu
 }
 
 .item-text {
+  font-size: 18px;
   margin-bottom: 0;
   padding-top: 1rem;
   color: black;
