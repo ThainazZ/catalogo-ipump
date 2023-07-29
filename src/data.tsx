@@ -174,7 +174,7 @@ const menu: MenuItem[] = [
   // GANHO DE MASSA
   {
     id: 21,
-    title: 'DELICIOUS MASS 3KG',
+    title: 'DELICIOUS MASS',
     category: 'Ganho de massa',
     price: 115.00,
     img:'./assets/hiper/delicious_mass.png',
@@ -182,7 +182,7 @@ const menu: MenuItem[] = [
   },
   {
     id: 22,
-    title: 'SUPERGAINERS 3KG',
+    title: 'SUPERGAINERS',
     category: 'Ganho de massa',
     price: 129.00,
     img:'./assets/hiper/supergainers.png',
