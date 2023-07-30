@@ -30,7 +30,7 @@ function App() {
   return (
     <main>
       <FloatingWhatsAppButton
-        whatsappLink="https://api.whatsapp.com/message/CIMZV5IDQ3GOA1?autoload=1&app_absent=0"
+        whatsappLink="https://web.whatsapp.com/send?phone=5588993730036"
       />
       <section className="menu section">
         <div className="title">
